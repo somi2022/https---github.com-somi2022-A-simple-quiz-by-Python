@@ -16,7 +16,11 @@ if answer == "Oslo":
         print("Correct!")
 else:
         print("Incorrect!")
-
+answer = input("Where is the capital of Japan? ")
+if answer == "Tokyo":
+        print("Correct!")
+else:
+        print("Incorrect!")
 
 
 
