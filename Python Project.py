@@ -11,5 +11,13 @@ if answer == "Rome":
         print("Correct!")
 else:
         print("Incorrect!")
+answer = input("Where is the capital of Norway? ")
+if answer == "Oslo":
+        print("Correct!")
+else:
+        print("Incorrect!")
+
+
+
 
 
