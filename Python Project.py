@@ -31,3 +31,4 @@ if answer == "Paris":
         score += 1
 else:
         print("Incorrect!")
+print("You got " + str((score / 4) * 100) + " %. questions correct!")
