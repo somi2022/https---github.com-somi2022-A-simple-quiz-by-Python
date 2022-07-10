@@ -1,0 +1,7 @@
+# https---github.com-somi2022-A-simple-quiz-by-Python
+In this project I use Python for answering 4 questions.
+First I provide an if / else for continuing or quiting the quiz
+Then if the player wants to continue by answering the question "yes", the game continues.
+If the player answers right then the player get a Correct! otherwise Incorrect!
+Finaly I add a scoring system based on procent.
+The last line indicates right answer in precentage.
